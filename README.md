@@ -1,5 +1,7 @@
 # TinDog
-This is a responsive startup site for a dog Tinder app
+This is a responsive startup site for a dog Tinder app.
+
+View <a href="https://gabbyj.github.io/TinDog/" target="_blank">TinDog</a> here.
 
 Created using:
 <ul>
